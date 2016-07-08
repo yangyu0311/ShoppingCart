@@ -176,7 +176,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\SystemUtility.cs" />
     <Compile Include="ViewModels\SaleItemDataWrapper.cs" />
-    <Compile Include="XunitExtension\AutoRollbackAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

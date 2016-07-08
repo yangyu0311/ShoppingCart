@@ -1,6 +1,6 @@
 #An introduction to Unit Testings / XUnit
 
-###The is tutorial for Tribal SchoolEdge internal training.
+###This is tutorial for Tribal SchoolEdge internal training.
  
 These are the libraries which are used in the project 
 
